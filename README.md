@@ -29,8 +29,8 @@ A C-based console application for managing student records, marking attendance, 
 1. **Clone or download the repository**  
 2. **Compile the code** using any C compiler:
    ```bash
-   gcc -o attendance attendance.c
+   gcc -o Student_management Student_management.c
 
 ## Run the  program
 
-./attendance
+./Student_management
